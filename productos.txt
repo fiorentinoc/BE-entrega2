@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Automovil de lujo",
+    "price": 11000000,
+    "thumbnail": "https://picsum.photos/200"
+  },
+  {
+    "id": 2,
+    "title": "Camioneta 4x4",
+    "price": 15000000,
+    "thumbnail": "https://picsum.photos/200"
+  },
+  {
+    "id": 3,
+    "title": "Monopatin electrico",
+    "price": 350000,
+    "thumbnail": "https://picsum.photos/200"
+  }
+]
